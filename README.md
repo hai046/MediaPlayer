@@ -30,7 +30,10 @@ Copy the following text to a text editor and save it as build_android.sh.
     #!/bin/bash
     NDK=$HOME/Desktop/adt/android-ndk-r9
     SYSROOT=$NDK/platforms/android-9/arch-arm/
-    TOOLCHAIN=$NDK/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64
+    
+    #[如果是mac的话就是 darwin-x86_64]
+    TOOLCHAIN=$NDK/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64  
+    
     function build_one
     {
     ./configure \
