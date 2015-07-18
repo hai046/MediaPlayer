@@ -145,5 +145,4 @@ For real examples to how to use the ffmpeg libraries in Android app, please refe
 
 
 
-
-  [http://www.roman10.net/how-to-build-ffmpeg-with-ndk-r9/]: http://www.roman10.net/how-to-build-ffmpeg-with-ndk-r9/
+[http://www.roman10.net/how-to-build-ffmpeg-with-ndk-r9/]: http://www.roman10.net/how-to-build-ffmpeg-with-ndk-r9/
