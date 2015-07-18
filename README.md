@@ -143,6 +143,11 @@ Note that we called import-module with the relative path to $NDK/sources for the
 For real examples to how to use the ffmpeg libraries in Android app, please refer to my github repo of android-ffmpeg-tutorial.
 
 
+[转载@http://www.roman10.net/how-to-build-ffmpeg-with-ndk-r9/][1]
+
+
+[1]: http://www.roman10.net/how-to-build-ffmpeg-with-ndk-r9/
+
 
 
 [http://www.roman10.net/how-to-build-ffmpeg-with-ndk-r9/]: http://www.roman10.net/how-to-build-ffmpeg-with-ndk-r9/
